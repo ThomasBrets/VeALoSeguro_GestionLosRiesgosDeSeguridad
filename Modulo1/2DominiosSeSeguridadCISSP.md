@@ -86,3 +86,35 @@ Este dominio sugiere que las organizaciones realicen pruebas de control de la se
 
 
 ## Dominio 7: Operaciones de seguridad
+Se centra en la investigación de una posible filtración de datos y la **implementación de medidas preventivas** después de que se haya producido un incidente. Esto incluye el uso de estrategias, procesos y herramientas como:
+
+- Entrenamiento y concientización.
+
+- Informes y documentación.
+
+- Detección y prevención de intrusiones.
+
+- Herramientas SIEM. 
+
+- Gestión de registros.
+
+- Gestión de incidentes.
+
+- Manuales de estrategias (playbooks).
+
+- Análisis forense posterior a una filtración.
+
+- Reflexión sobre las lecciones aprendidas.
+
+Los y las profesionales de ciberseguridad involucrados en este dominio trabajan en equipo para **gestionar, prevenir e investigar amenazas, riesgos y vulnerabilidades.** Están entrenados para hacer frente a ataques activos, como el acceso a grandes cantidades de datos desde la red interna de una organización, fuera del horario normal de trabajo. Una vez identificada una amenaza, **el equipo trabaja para mantener a salvo los datos y la información privada.** 
+
+
+
+## Dominio 8: Seguridad en el desarrollo de software
+Se enfoca en el **uso de prácticas y políticas de programación para crear aplicaciones seguras**. Contar con ellas ayuda a ofrecer servicios seguros y fiables, y a proteger a las organizaciones y sus usuarios.
+
+**La seguridad debe incorporarse en cada elemento del ciclo de vida del desarrollo de software**, desde el diseño y el desarrollo hasta las pruebas y el lanzamiento. Para lograr la seguridad efectiva, es necesario tener en mente la seguridad en cada paso del proceso de desarrollo de software. No se la puede considerar como un aspecto secundario o posterior.
+
+Realizar pruebas de seguridad en las aplicaciones ayuda a identificar y mitigar vulnerabilidades. Es fundamental contar con un sistema que evalúe las convenciones de programación, los ejecutables y las medidas de seguridad. Además, **se requiere de profesionales en control de calidad y pruebas de penetración para asegurar que el software cumpla con los estándares de seguridad y rendimiento**.
+
+**Ejemplo:** Un analista de nivel inicial que trabaje para una empresa farmacéutica podría tener la responsabilidad de asegurarse de que el cifrado, o encriptación, esté configurado correctamente en un nuevo dispositivo médico que almacenará datos privados de pacientes. 
