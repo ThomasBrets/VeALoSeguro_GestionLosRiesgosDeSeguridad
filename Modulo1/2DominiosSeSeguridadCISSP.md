@@ -1,7 +1,7 @@
 # Más información sobre los dominios de seguridad de CISSP
 --- 
 
-![Dominios de seguridad CISSP](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/KawZDhEyQJmZp7NL0lvI9Q_1ce5d74d99524ac58ec836a3474475f1_5D28OxERMHpebLx_y05nT5xhrwOeibVwx2Ug8qmuCEgyz2UuTHveKUnl5HmiOe9EjmKtt0W86sqt5RMAWjTyZ04D-QHB5RzeG514mk5xYMYFnt5lb-pUNy1LROQVCSFpDmK5jdOzVNMAVLG0CDaPrQ?expiry=1727395200000&hmac=3xscwJPurxh8s2BVrOEALx0iExbdPQvoUntCnMnswBA)
+![Dominios de seguridad CISSP](../assets/Dominios.png)
 
 ### Postura de seguridad
 Es la capacidad de una organización de **defender sus activos y datos críticos, y reaccionar al cambio**.
