@@ -32,6 +32,7 @@ Es una debilidad que puede ser aprovechada por una amenaza. Cabe destacar que de
 Las personas también pueden ser consideradas una vulnerabilidad. Sus acciones pueden afectar a la red interna. Ya sean clientes, proveedores externos o empleados.
 
 
+---
 
 ## Rasonware y tres impactos clave de las amenazas, riesgos y vulnerabilidades
 
@@ -62,3 +63,45 @@ La Web es una red interconectada de contenido en línea que consiste en tres cap
 - #### Daño a la reputación:
  Una sólida base de clientes apoya la misión, visión y objetivos financieros de la organización. Si se aprovecha una vulnerabilidad, los clientes pueden buscar nuevas relaciones comerciales con competidores o crear una mala publicidad que daña la reputación de la organización.
 
+---
+
+## Marco de Gestión de Riesgo (RMF) del NIST
+
+El RMF tiene 7 pasos:
+
+1. ### Preparar 
+Éste se refiere a las actividades necesarias para **gestionar los riesgos de seguridad y privacidad** antes de que ocurra una falla de seguridad.
+
+**Ejemplo:** Puede que utilices este paso para monitorear los riesgos e identificar controles que puedan utilizarse para reducirlos.
+
+2. ### Categorizar
+Sirve para **desarrollar procesos y tareas de manejo de riesgos**.
+Los profesionales de seguridad usan esos procesos y desarrollan tareas pensando en cómo la confidencialidad, integridad y disponibilidad de los sistemas e información pueden verse afectadas.
+
+**Ejemplo:** Deberás entender como seguir con los procesos establecidos por tu organización para reducir los riesgos contra activos críticos, como la información privada de clientes.
+
+3. ### Seleccionar
+Se refiere a **elegir, personalizar y capturar** la documentación de los controles que protegen una organización.
+
+**Ejemplo:** Un ejemplo sería actualizar un manual de procedimientos o gestionar otra documentación que te permita a ti y al equipo abordar problemas de forma más eficiente.
+
+4. ### implementar
+Consiste en **implementar planes de seguridad y privacidad para la organización**. Tener buenos planes es esencial para minimizar el impacto de riesgos de seguridad continuos.
+
+**Ejemplo:** Si notas un patron de empleados que constantemente necesitan restablecer sus contraseñas, implementar un cambio en los requisitos de contraseña para resolver este problema.
+
+5. ### Evaluar
+Se refiere a **determinar si los controles establecidos se implementaron correctamente**.
+Es escencial tomarse el tiempo para analizar los protocolos, procedimientos y controles que se implementaron cumplen con las necesidades de la organización. 
+
+**Ejemplo:**  En este paso los analistas identifican posibles debilidades y determinan si las herramientas, procedimientos, controles y protocolos de la organización deben cambiarse para gestionar mejor los riesgos.
+
+6. ### Autorizar
+Significa ser responsable de los riesgos de seguridad y privacidad que pueden existir en una organización.
+
+**Ejemplo:** Como analista, este paso podria implicar generar informes, desarrollar planes de acción y establecer puntos de control del proyecto que estén alineados con los objetivos de seguridad de tu organización.
+
+7. ### Monitorear
+Significa estar al tanto de cómo operan los sistemas. 
+
+**Ejemplo:** Evaluar y mantener las operaciones técnicas son tareas diarias de los analistas. Parte de mantener un nivel bajo de riesgo para una organización es saber cómo los sistemas actuales apoyan objetivos de seguridad de la organización.
