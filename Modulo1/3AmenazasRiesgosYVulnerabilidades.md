@@ -1,17 +1,59 @@
 # Navega por las amenazas, los riesgos y las vulnerabilidades
 ---
+## Gestión del riego
+Un objetivo primordial de las empresas es proteger sus activos. Un **activo** es un elemento que **se percibe como valioso** para una organización. Este puede ser **digital o físico**. 
+
+**Ejemplos de activos digitales** son la información personal de colaboradores/as, clientes o proveedores, como: 
+
+- Números de la Seguridad Social (SSN) o números únicos de identificación nacional asignados a personas. 
+
+- Fechas de nacimiento.
+
+- Números de cuentas bancarias.
+
+- Direcciones postales.
+
+**Ejemplos de activos físicos** incluyen:
+
+- Terminales de pago.
+
+- Servidores.
+
+- Computadoras de escritorio.
+
+- Espacios de oficina.
+
+Algunas estrategias habituales utilizadas para gestionar los riesgos son:
+
+- **Aceptación:** Aceptar un riesgo para evitar interrumpir la continuidad del negocio.
+
+- **Prevención:** Crear un plan para evitar el riesgo por completo.
+
+- **Transferencia:** Transferir el riesgo a un tercero para que lo gestione.
+
+- **Mitigación:** Disminuir el impacto de un riesgo conocido.
+
+Las organizaciones utilizan procesos de gestión de riesgos basados en marcos reconocidos para proteger sus activos digitales y físicos frente a amenazas y vulnerabilidades. Ejemplos de estos marcos son el **Marco de Gestión de Riesgos (RMF) del NIST** y la **Health Information Trust Alliance (HITRUST).**
+
+
 
 ## Amenazas, riesgos y vulnerabilidades
 
 ### Amenaza
-Es una circunstancia o evento que puede afectar negativamente a los activos.
+Es una **circunstancia o evento que puede afectar negativamente a los activos**. Como analista de ciberseguridad de nivel inicial, tu trabajo consiste en ayudar a preservar los activos de la organización frente a amenazas internas y externas. 
 
-**Ejemplo:** Un ataque de **ingeniería social**. Un método de esta amenaza es enviar correos con enlaces maliciosos que parecen provenir de empresas legítimas o de personas **(phishing)**.
+Las amenazas comunes incluyen:
+
+- **Amenazas internas:** Cuando miembros del personal o proveedores abusan de su acceso autorizado para obtener datos que pueden perjudicar a una organización.
+
+- **Amenazas persistentes avanzadas (APT):** Cuando agentes de amenaza mantienen el acceso no autorizado a un sistema durante un periodo prolongado de tiempo.
+
+**Ejemplo de amenaza:** Un ataque de **ingeniería social**. Un método de esta amenaza es enviar correos con enlaces maliciosos que parecen provenir de empresas legítimas o de personas **(phishing)**.
 
 
 
 ### Riesgo
-Es algo que puede afectar a la confidencialidad, integridad y disponibilidad de los datos. Piensa en un riesgo como la posibilidad de que ocurra una amenaza.
+Es **algo que puede afectar a la confidencialidad, integridad y disponibilidad de los datos.** Piensa en un riesgo como la posibilidad de que ocurra una amenaza.
 
 **Ejemplo:** Un ejemplo de un riesgo para una organización podría ser la falta de protocolos de respaldo para asegurarse que la información almacenada pueda recuperarse en caso de un accidente o incidente de seguridad.
 
@@ -23,10 +65,38 @@ Las organizaciones califican los riesgos de diferentes niveles dependiendo la pr
 
 - **Activo de alto riesgo:** Es información protegida por normas o leyes que, si se ve comprometida, tendría un impacto negativo grave en las finanzas, operaciones o reputación de la organización. Pueden incluir activos filtrados con SPII, PII o propiedad intelectual.
 
+Una fórmula básica para determinar el nivel de riesgo es que este es igual a la probabilidad de una amenaza. Una forma de verlo es que un riesgo es llegar tarde al trabajo y las amenazas son el tráfico o un accidente que puedan ocasionar esa demora. 
+
+Existen diferentes factores que pueden afectar a la probabilidad de que se produzca un riesgo para los activos de una organización, entre ellos:
+
+- **Riesgo externo:** Se refiere a cualquier elemento, grupo o personas fuera de la organización que tienen el potencial de dañar sus activos, como agentes de amenaza que intentan acceder a información privada.
+
+- **Riesgo interno:** Se trata de colaboradores/as, proveedores externos o socios de confianza actuales o antiguos/as que pueden suponer un riesgo para la seguridad.
+
+- **Sistemas heredados:** Son sistemas antiguos que, si bien pueden no estar contabilizados o actualizados, aún pueden afectar a los activos, como estaciones de trabajo o sistemas de mainframe antiguos.
+
+- **Riesgo de múltiples partes:** Hace referencia a que, el externalizar el trabajo a terceros, puede implicar darles acceso a propiedad intelectual, como información comercial confidencial, diseños de software y patentes.
+
+- **Cumplimiento normativo/licencias de software:** Tiene que ver con software que no está actualizado o no cumple la normativa, o parches que no se instalan a tiempo.
+
 
 
 ### Vulnerabilidades
-Es una debilidad que puede ser aprovechada por una amenaza. Cabe destacar que debe haber una vulnerabilidad y una amenaza para que haya un riesgo.
+Es una **debilidad que puede ser aprovechada por una amenaza**. Cabe destacar que debe haber una vulnerabilidad y una amenaza para que haya un riesgo.
+
+Por lo tanto, las organizaciones deben inspeccionar periódicamente sus sistemas en busca de vulnerabilidades. Algunas de estas pueden ser:
+
+- **ProxyLogon:** Una vulnerabilidad preautenticada que afecta al servidor de Microsoft Exchange. Esto significa que un agente de amenaza puede completar un proceso de autenticación de usuario para implementar código malicioso desde una ubicación remota.
+
+- **ZeroLogon:** Una vulnerabilidad en el protocolo de autenticación Netlogon de Microsoft. Un protocolo de autenticación es una forma de verificar la identidad de una persona. Netlogon es un servicio que garantiza la identidad de un usuario antes de permitirle el acceso a la ubicación de un sitio web.
+
+- **Log4Shell:** Posibilita a los atacantes ejecutar código Java en la computadora de otra persona o filtrar información confidencial. Para ello, permite a un atacante remoto tomar el control de dispositivos conectados a Internet y ejecutar código malicioso.
+
+- **PetitPotam:** Afecta al gestor de redes de área local (LAN) de nueva tecnología de Windows (NTLM). Se trata de una técnica de robo que permite a un atacante basado en LAN iniciar una solicitud de autenticación.
+
+- **Fallos de registro y supervisión de la seguridad:** Capacidades de registro y supervisión insuficientes que dan lugar a que quienes perpetran un ataque aprovechen vulnerabilidades sin que la organización lo sepa.
+
+- **Falsificación de solicitudes del lado del servidor:** Permite a quienes perpetran un ataque manipular una aplicación del lado del servidor para que acceda a recursos backend y los actualice. También puede permitir que los agentes de amenaza roben datos.
 
 **Ejemplo:** Firewall, aplicaciones o software desactualizados, contraseñas débiles, asi como datos confidenciales desprotegidos.  
 Las personas también pueden ser consideradas una vulnerabilidad. Sus acciones pueden afectar a la red interna. Ya sean clientes, proveedores externos o empleados.
