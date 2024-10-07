@@ -5,16 +5,18 @@ En este curso veremos:
 
 - ### 8 dominios de seguridad del Certificado Profesional en Seguridad de Sistemas de Información (CISSP)
 
-- ### Marcos y controles de seguridad con mas detalle
+- ## Marcos y controles de seguridad con mas detalle
 
-- ### Auditorías de Seguridad
+- ## Auditorías de Seguridad
 
-- ### Herramientas básicas de seguridad
+- ## Herramientas básicas de seguridad
 
-- ### Proteger activos y datos
+- ## Proteger activos y datos
 
 
 ## Semana 1: Dominios de seguridad
+
+---
 
 ![Dominios de seguridad](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/-pPUGmuJTTKZcfaqqUostQ_6672a156efee42dcbadb2b1ef1bd12f1_4evAtLDIv95RLaWgOloxM-wvPr0Qz8QiuxXjLz0hILGSH2lEqv_067HtkK25bLCH1h4-bfhHFEMB57w_0xK0ZxKkRRm1OOYG0gFgdA5PAY48mbiz8ljnooUJ5rBEUXgDK6wdszAAICKhR93cA7Prlg?expiry=1727308800000&hmac=--iXuwaEu0Z0W8b5vb4lVaVCDvitsPW5gJFM6O5ViD8)
 
