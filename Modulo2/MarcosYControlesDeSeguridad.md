@@ -90,3 +90,19 @@ Los controles se utilizan junto con los marcos para reducir la posibilidad y el 
 - Clasificación de activos
 
 
+ 
+
+
+## Marcos y controels específicos
+Existen diversos marcos y controles que las organizaciones pueden utilizar para cumplir con las regulaciones y alcanzar sus objetivos de seguridad.
+
+### Marco de Amenaza Cibernética (Cyber Threat Framework, CTF)
+
+El CTF, desarrollado por el gobierno de EE. UU., proporciona un lenguaje común para describir y comunicar información sobre amenazas cibernéticas. Esto ayuda a los profesionales de ciberseguridad a compartir y analizar datos de manera más eficiente, mejorando la respuesta de las organizaciones ante las diversas tácticas de los agentes de amenaza.
+
+
+### Organización Internacional de Normalización/Comisión Electrotécnica Internacional (ISO/IEC) 27001
+
+El ISO/IEC 27001 es un marco internacional que ayuda a organizaciones de todos los sectores a gestionar la seguridad de sus activos, como la información financiera y los datos del personal. Establece requisitos y prácticas recomendadas para un sistema de gestión de seguridad de la información, ofreciendo controles opcionales para mejorar la seguridad y gestionar los riesgos.
+
+
