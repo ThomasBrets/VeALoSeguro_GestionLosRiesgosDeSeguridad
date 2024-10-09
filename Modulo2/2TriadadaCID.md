@@ -14,7 +14,7 @@ Implica que los **datos son verificables, auténticos y confiables**. Es esencia
 **Ejemplo:** Otro ejemplo de cómo una organización podría implementar la integridad es mediante la activación del **cifrado**, que es el proceso de convertir los datos de un formato legible a uno codificado.
 
 - ## Disponibilidad
-Refiere a que los datos son accesibles para aquellas personas autorizadas a usarlos. Cuando un sistema cumple con los principios de disponibilidad y confidencialidad, los datos pueden ser utilizados cuando se necesiten. En un entorno laboral, esto permite al personal remoto acceder a la red interna de la organización, pero con acceso limitado según lo que necesiten para realizar su trabajo.
+Refiere a que los **datos son accesibles para aquellas personas autorizadas a usarlos**. Cuando un sistema cumple con los principios de disponibilidad y confidencialidad, los datos pueden ser utilizados cuando se necesiten. En un entorno laboral, esto permite al personal remoto acceder a la red interna de la organización, pero con acceso limitado según lo que necesiten para realizar su trabajo.
 
 **Ejemplo:** Si una persona trabaja en el departamento de Contabilidad de la empresa, es posible que necesite acceso a las cuentas corporativas, pero no a los datos relacionados con proyectos que estén desarrollando en ese momento. 
 
