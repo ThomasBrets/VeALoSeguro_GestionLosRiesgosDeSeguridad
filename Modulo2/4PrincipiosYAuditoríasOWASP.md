@@ -60,4 +60,42 @@ La seguridad de una aplicación no debe depender de mantener el código fuente e
 Las y los profesionales de la ciberseguridad aplican constantemente los principios de seguridad para proteger a las organizaciones y a las personas. Como analista de ciberseguridad de nivel inicial, puedes utilizar estos principios para implementar prácticas seguras que reduzcan los riesgos tanto para las empresas como para los usuarios. 
 
 
+---
+
+# Planificauna auditoría en seguridad
+¿Como funcionan juntos los **marcos, controles,  principios de seguridad y cumplimiento normativo**?  
+Mediante **Auditorías de seguridad**.
+
+## Auditoría de seguridad
+Ésta es una revisión de los controles de seguridad, políticas y procedimientos que tiene una organización.
+
+Hay 2 tipos principales de auditorías de seguridad:  
+**Auditoría interna y externa**.
+
+### Auditoría interna
+La suele realizar un equipo de personas que puede incluir al encargado de cumplimiento, gerente de seguridad y otros miembros del equipo.   
+
+Éstas se utilizan para mejorar la postura de seguridad de una organización y evitar multas de agencias reguladoras por falta de cumplimiento normativo.
+
+#### Propósitos de las auditorías internas:
+
+- Identificar el riesgo organizacional. 
+
+- Evalúa los controles.
+
+- Corrige problemas de cumplimiento.
+
+
+#### Componentes comunes de las auditorías internas:
+- ##### Definir el alcance y los objetivos de la auditoría:
+El **alcance** se refiere a los criterios de una auditoría interna. El alcance requiere identificar las personas, activos, políticas y procedimientos y tecnologías que podrían afectar a la postura de seguridad.  
+Los **objetivos** son un planteo de las metas de seguridad o que se quiere lograr para mejorar la postura de seguridad.
+
+- ##### Evaluar el riesgo de los activos de la organización
+
+- ##### Evaluar los controles
+
+- ##### Evaluar el cumplimiento
+
+- ##### Comunicar los resultados a las partes interesadas. 
 
