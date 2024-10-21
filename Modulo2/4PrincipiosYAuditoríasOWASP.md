@@ -86,16 +86,55 @@ La suele realizar un equipo de personas que puede incluir al encargado de cumpli
 - Corrige problemas de cumplimiento.
 
 
-#### Componentes comunes de las auditorías internas:
-- ##### Definir el alcance y los objetivos de la auditoría:
+### Componentes comunes de las auditorías internas:
+1. #### Definir el alcance y los objetivos de la auditoría:
 El **alcance** se refiere a los criterios de una auditoría interna. El alcance requiere identificar las personas, activos, políticas y procedimientos y tecnologías que podrían afectar a la postura de seguridad.  
 Los **objetivos** son un planteo de las metas de seguridad o que se quiere lograr para mejorar la postura de seguridad.
 
-- ##### Evaluar el riesgo de los activos de la organización
+2. #### Evaluar el riesgos de los activos de la organización
+Se centra en identificar amenazas, riesgos y vulnerabilidades potenciales. Esto ayuda a las organizaciones a decidir que medidas de seguridad implementar y monitorear para proteger sus activos.  
+Al igual que definir el alcance u los objetivos, suelen evaluar el riesgo los gerentes u otras partes interesadas. 
 
-- ##### Evaluar los controles
+___
 
-- ##### Evaluar el cumplimiento
+### Preguntas de una auditoría
+- ¿Qué se quiere lograr con la auditoría?
 
-- ##### Comunicar los resultados a las partes interesadas. 
+- ¿Qué activos están más en riesgo?
+
+- ¿Son suficientes los controles actuales para proteger esos activos? 
+
+- Si no lo son ¿Que controles y normativa de cumplimiento se deben implementar?
+
+Al tener en cuenta estas preguntas dispondrás de una base para completar el siguiente elemento: **Evaluar los controles.**
+___
+3. #### Evaluar los controles
+Implica revisar los activos de una organización y luego evaluar los posibles riesgos para esos activos a fin de garantizar que los controles internos sean efectivos.  
+Para lograrlo los analistas de nivel inicial podrían clasificar los controles en las siguientes categorías:
+
+- **Controles administrativos:** Se relacionan con el componente humano de la ciberseguridad. Son políticas y procedimientos que definen cómo una organización gestiona los datos, como la implementación de las políticas de contraseñas.
+
+- **Controles técnicos:** Son soluciones de hardware y software para proteger los activos, como usar sistemas de detección e intrusiones (IDS) y cifrado.
+
+- **Controles físicos:** Son medidas implementadas para evitar el acceso físico a los activos protegidos, como cámaras de vigilancia y cerraduras.
+
+
+4. #### Evaluar el cumplimiento
+Hay que evaluar si la organización sigue o no el cumplimiento normativo necesario. El cumplimiento normativo se refiere a las leyes que la organización debe seguir para proteger los datos privados.
+
+5. #### Comunicar los resultados a las partes interesadas. 
+Tras completar la auditoría interna, deben notificarse los resultados y las recomendaciones a las partes interesadas.  
+En general, este tipo de comunicación:
+- Resume el alcance y los objetivos de la auditoría. 
+
+- Enumera los riesgos existentes.
+
+- Indica con que velocidad deben abordarse.
+
+- Identifica el cumplimiento normativo.
+
+- Da recomendaciones para mejorar la postura de seguridad de la empresa.
+
+
+
 
